@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Video Walkthrough
 
-https://github.com/vickiku88/codepath/blob/master/codepath1.gif
+https://github.com/vickiku88/codepath/blob/master/codepathREAL.gif
 
 Learning to debug why NSUserDefault wasn't working
 
